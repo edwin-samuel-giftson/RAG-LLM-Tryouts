@@ -37,17 +37,6 @@ This repository includes:
 
 ---
 
-## Structure
-
-- **`/code`**: Contains Python scripts for:
-  - Implementing RAG pipelines
-  - Embedding generation and storage
-  - Querying and generating responses using LLMs
-- **`/notebooks`**: Jupyter Notebooks demonstrating step-by-step explorations.
-- **`/resources`**: Links to documentation, research papers, and tutorials used during this phase.
-
----
-
 ## Key Learnings
 
 1. **Challenges Faced**:
